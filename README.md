@@ -1,15 +1,62 @@
-# 💫 About Me:
-💻 Software Engineer | Backend Developer (Node.js)<br>🚀 3+ years of experience building scalable REST APIs<br>🧠 Strong in Node.js, Express, MongoDB, MySQL<br>⚙️ Working with TypeScript, Redis, Docker, AWS<br>🌱 Currently learning Python, Java & advanced TypeScript<br>🔄 Aspiring Full-Stack Developer<br>📚 Love solving DSA & backend architecture problems<br>🎯 Focused on clean code, performance & real-world solutions<br><br>📫 Reach me on LinkedIn / GitHub<br>⚡ Fun fact: I enjoy explaining complex tech in simple words 😄
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Nishant+👋;Software+Engineer+%7C+Backend+Developer;Node.js+%7C+Express+%7C+Databases;Building+Scalable+APIs+🚀" />
+</h1>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284126-6b9b68bb-6e63-4b2d-8e6a-7f2b41a1a04e.gif" width="100%"/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nishant755&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nishant755&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant755&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+## 💫 About Me
+
+💻 **Software Engineer | Backend Developer (Node.js)**  
+🚀 **3+ years** building scalable REST APIs  
+🧠 Strong in **Node.js, Express, MongoDB, MySQL**  
+⚙️ Working with **TypeScript, Redis, Docker, AWS**  
+🌱 Learning **Python, Java & advanced TypeScript**  
+🔄 Aspiring **Full-Stack Developer**  
+📚 Love **DSA & backend architecture problems**  
+🎯 Focused on **clean code & performance**
+
+⚡ Fun fact: I explain complex tech in simple words 😄
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nishant755&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,mongodb,mysql,redis,docker,aws,kafka,git,github&perline=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Stable)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishant755&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant755&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant755&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nishant755/Nishant755/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Nishant755&icon=0&color=6" />
+</p>
+
+<p align="center">
+  <strong>✨ Build • Learn • Scale ✨</strong>
+</p>
