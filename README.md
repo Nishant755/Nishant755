@@ -1,15 +1,25 @@
-# 💫 About Me:
-💻 Software Engineer | Backend Developer (Node.js)<br>🚀 3+ years of experience building scalable REST APIs<br>🧠 Strong in Node.js, Express, MongoDB, MySQL<br>⚙️ Working with TypeScript, Redis, Docker, AWS<br>🌱 Currently learning Python, Java & advanced TypeScript<br>🔄 Aspiring Full-Stack Developer<br>📚 Love solving DSA & backend architecture problems<br>🎯 Focused on clean code, performance & real-world solutions<br><br>📫 Reach me on LinkedIn / GitHub<br>⚡ Fun fact: I enjoy explaining complex tech in simple words 😄
+<div align="center">
 
+![Intro](./assets/hero.svg?v=1)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nishant755&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nishant755&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant755&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![About](./assets/about-life.svg?v=1)
 
----
-[![](https://visitcount.itsvg.in/api?id=Nishant755&icon=0&color=0)](https://visitcount.itsvg.in)
+![Stack](./assets/stack.svg?v=1)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![ID](./assets/id-dashboard.svg?v=1)
+
+## Featured projects
+
+| Project | What it does | Links |
+| --- | --- | --- |
+| **DevPath** | Skill-mapping tool: finds the shortest prerequisite path to a target role using graph queries, with AI career insights. | [Code](https://github.com/Nishant755/Graph_DataBase_Application) · [Live](https://graph-data-base-application.vercel.app) |
+| **Interview Prep** | Prepare for interviews by role, experience level and the skills on your resume. | [Code](https://github.com/Nishant755/prep-platform) · [Live](https://prep-platform-wine.vercel.app) |
+| **MERN-Notes** | Comprehensive MERN stack study notes with interview prep and projects. | [Code](https://github.com/Nishant755/MERN-Notes) |
+
+![Connect](./assets/connect.svg?v=1)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Nishant755-070b16?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishant755)
+[![DevPath](https://img.shields.io/badge/Live-DevPath-247bff?style=for-the-badge&logo=vercel&logoColor=white)](https://graph-data-base-application.vercel.app)
+[![Interview Prep](https://img.shields.io/badge/Live-Interview_Prep-ff354f?style=for-the-badge&logo=vercel&logoColor=white)](https://prep-platform-wine.vercel.app)
+
+</div>
