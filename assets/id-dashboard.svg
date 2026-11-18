@@ -12,7 +12,7 @@
  28%{transform:translateY(0) rotate(7deg)}
  42%{transform:rotate(-5deg)} 56%{transform:rotate(3.4deg)} 70%{transform:rotate(-2.4deg)}
  84%{transform:rotate(1.9deg)} 100%{transform:rotate(0)}}
-@keyframes iswing{0%,100%{transform:rotate(1.7deg)}50%{transform:rotate(-1.7deg)}}
+@keyframes iswing{0%,100%{transform:rotate(1.7deg) scaleX(.94) skewY(-1.2deg)}25%,75%{transform:rotate(0) scaleX(1) skewY(0)}50%{transform:rotate(-1.7deg) scaleX(.94) skewY(1.2deg)}}
 @keyframes isweep{0%,55%{transform:translateX(-260px) skewX(-20deg)}85%,100%{transform:translateX(420px) skewX(-20deg)}}
 @keyframes iin{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
 .idrop{transform-box:view-box;transform-origin:450px 0;animation:idrop 3.4s cubic-bezier(.3,.7,.4,1) 0s both}
