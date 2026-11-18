@@ -37,26 +37,26 @@
 <g class="aa" style="animation:ain .7s ease 0.2s both">
   <rect x="48" y="106" width="420" height="46" rx="12" fill="#0f1830" stroke="#1d2a4a"/>
   <rect x="48" y="106" width="4" height="46" rx="2" fill="#247bff"/>
-  <text class="am" x="68" y="134" font-size="12" fill="#247bff" letter-spacing="1.5">REST APIs</text>
-  <text x="168" y="135" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" fill="#f3f1ea">Design &amp; build scalable, secure REST APIs</text>
+  <text class="am" x="68" y="134" font-size="12" fill="#247bff" letter-spacing="1.5">APIs</text>
+  <text x="168" y="135" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" fill="#f3f1ea">REST &amp; GraphQL APIs, rate limiting</text>
 </g>
 <g class="aa" style="animation:ain .7s ease 0.35s both">
   <rect x="48" y="164" width="420" height="46" rx="12" fill="#0f1830" stroke="#1d2a4a"/>
   <rect x="48" y="164" width="4" height="46" rx="2" fill="#ff354f"/>
-  <text class="am" x="68" y="192" font-size="12" fill="#ff354f" letter-spacing="1.5">BACKEND</text>
-  <text x="168" y="193" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" fill="#f3f1ea">Node.js, Express &amp; NestJS services</text>
+  <text class="am" x="68" y="192" font-size="12" fill="#ff354f" letter-spacing="1.5">EVENTS</text>
+  <text x="168" y="193" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" fill="#f3f1ea">Kafka/RabbitMQ workers, retries, DLQ</text>
 </g>
 <g class="aa" style="animation:ain .7s ease 0.5s both">
   <rect x="48" y="222" width="420" height="46" rx="12" fill="#0f1830" stroke="#1d2a4a"/>
   <rect x="48" y="222" width="4" height="46" rx="2" fill="#247bff"/>
   <text class="am" x="68" y="250" font-size="12" fill="#247bff" letter-spacing="1.5">DATA</text>
-  <text x="168" y="251" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" fill="#f3f1ea">MongoDB &amp; MySQL modelling, Redis caching</text>
+  <text x="168" y="251" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" fill="#f3f1ea">MongoDB &amp; MySQL tuning, Redis cache</text>
 </g>
 <g class="aa" style="animation:ain .7s ease 0.6499999999999999s both">
   <rect x="48" y="280" width="420" height="46" rx="12" fill="#0f1830" stroke="#1d2a4a"/>
   <rect x="48" y="280" width="4" height="46" rx="2" fill="#ff354f"/>
-  <text class="am" x="68" y="308" font-size="12" fill="#ff354f" letter-spacing="1.5">INFRA</text>
-  <text x="168" y="309" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" fill="#f3f1ea">Kafka pipelines, Docker &amp; AWS deploys</text>
+  <text class="am" x="68" y="308" font-size="12" fill="#ff354f" letter-spacing="1.5">CLOUD</text>
+  <text x="168" y="309" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" fill="#f3f1ea">Docker, K8s, AWS, Terraform, CI/CD</text>
 </g>
 
 
